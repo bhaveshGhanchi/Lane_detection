@@ -28,7 +28,7 @@ If you're feeling ambitious (again, totally optional though), don't stop there! 
 
 
 To activate the environment:
-`.<virtual_env_name>/Scripts/activate`
+`./<virtual_env_name>/Scripts/activate`
 
 To activate the environment:
 `deactivate`
